@@ -1,0 +1,6 @@
+Este fichero contiene los credenciales necesarios para ejecutar el código.
+Acceder a la siguiente página web y solicitar una clave:
+
+https://sportsdata.io/cart/free-trial
+
+INSERT KEY IN NEXT LINE:
